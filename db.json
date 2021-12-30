@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Learn Spring",
+      "day": "1/1/2022",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Learn React",
+      "day": "31/12/2021",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Download the new game",
+      "day": "4/01/2022",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
