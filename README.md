@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Task Manager Deployment](https://samsomyajit.github.io/React-Task-Tracker/).
+Check out the online deployment here: [Task Manager Deployment](https://samsomyajit.github.io/Task-Tracker/).
 
 ## Available Scripts
 
